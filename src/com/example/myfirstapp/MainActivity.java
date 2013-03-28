@@ -7,6 +7,7 @@ import android.view.Menu;
 import android.view.View;
 import android.widget.EditText;
 
+//test
 public class MainActivity extends Activity {
 
 	 public final static String EXTRA_MESSAGE = "com.example.myfirstapp.MESSAGE";
